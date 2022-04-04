@@ -1,0 +1,8 @@
+.topcontainer{
+    background: url("../../assets/laptop-ga1d888661_1920.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: inset 0 0 0 2000px rgba(0 ,0,0,0.5);
+}

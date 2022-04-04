@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab&family=Montserrat:wght@300;600&family=Roboto+Slab:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Montagu+Slab&display=swap');
+.topcontent{
+    color: rgb(14, 13, 13);
+    font-family: 'Montagu Slab', serif;
+}
+.topcontent__container{
+    position: absolute;
+    top: 230px;
+    right: 240px;
+}
+.topcontent__container{
+    letter-spacing: 1px;
+    text-align: left;
+    padding-left: 3px;
+    padding-top: 20px;
+}
+.topcontent__container > a > button{
+    margin-top: 30px;
+    text-align: left;
+    margin-left: 5px;
+    border: none;
+    border-radius: 2px;
+    outline:none;
+}
+.topcontent__container >h1{
+    font-size: 50px;
+    font-family: 'Montagu Slab', serif;
+    color: rgb(17, 16, 16);
+    position: relative;
+  
+}
+.topcontent__button1{
+    color:rgb(19, 18, 18);
+    background-color:  rgb(131, 57, 165);;
+    font-size: 20px;
+    padding: 10px 30px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 500;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.topcontent__button1:hover{
+    color: crimson;
+    background-color: white;
+    font-weight: 500;
+}
+.topcontent__buton2{
+    color:rgb(17, 16, 16);
+    border:1px solid crimson !important;
+    background-color: transparent;
+    font-size: 20px;
+    padding: 10px 30px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 500;
+    cursor: pointer;
+}
+.topcontent__buton2:hover{
+    color: black;
+    background-color: white;
+    font-weight: 500;
+}
+

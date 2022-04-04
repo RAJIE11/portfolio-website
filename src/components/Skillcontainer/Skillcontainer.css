@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab&family=Montserrat:wght@300;600&family=Roboto+Slab:wght@300;400&display=swap');
+
+.Skillcontainer{
+    display: flex;
+    align-items:right ;
+    text-align: right;
+    margin: 50px 0;
+    margin-left: 10px;
+
+}
+.Skillcontainer__text{
+    color: rgb(131, 57, 165);
+    flex: 0.7;
+    text-align: left;
+    max-width: 400px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+}
+#Skillcolor{
+    color: blanchedalmond;
+    font-size: 30px;
+}
+.Skillcontainer__image{
+    flex: 0.3; 
+}
+.Skillcontainer_Skillsets >h5{
+    font-family: Montserrat;
+}
+.Skillcontainer__image >img{
+    width: 600px;
+    border-radius: 3px;
+    object-fit: contain;
+}
+.Skillcontainer_Skillsets >h5{
+    font-family:" Montserrat",sans-serif;
+   
+}
+.Skillcontainer_slider1 >div >.MuiLinearProgress-barColorPrimary {
+    background-color: brown;
+}
